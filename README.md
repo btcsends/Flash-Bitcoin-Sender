@@ -25,4 +25,5 @@ Features
 
 Support
 
-    -Whatsapp +40785596001
+    -Telegram: @nodexiscore or https://t.me/nodexiscore/
+    -Mail: support@nodexiscore.com
